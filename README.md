@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @itsshreyashk
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning ...TS
-- 💞️ I’m looking to collaborate on repo
-- 📫 How to reach me > email : shreyashkumar.me@gmail.com
-
-<!---
-itsshreyashk/itsshreyashk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @itsshreyashk. My passion lies in coding, and currently, I'm diving into the world of TypeScript to enhance my skills. 🌱 I'm eager to collaborate on exciting repositories and contribute to innovative projects. 🚀 If you're working on something interesting or looking for a collaborator, feel free to reach out to me via email at 📧 shreyashkumar.me@gmail.com. Let's code and create something amazing together! 💻✨
