@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsshreyashk
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m currently learning ...TS
 - 💞️ I’m looking to collaborate on repo
 - 📫 How to reach me > email : shreyashkumar.me@gmail.com
 
