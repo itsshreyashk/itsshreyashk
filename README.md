@@ -1,1 +1,1 @@
-👋 Hi, I'm @itsshreyashk. My passion lies in networking and ANN and in implementing my cool ideas, I've learned `React+NodeJS+Flask`. 🌱 I'm eager to collaborate on exciting repositories and contribute to innovative projects. 🚀 If you're working on something interesting or looking for a collaborator, feel free to reach out to me via X (link in the profile) `Make sure not to spam`. You can find me contributing to various projects. Let's code and create something amazing together! 💻✨
+I'm learning.
