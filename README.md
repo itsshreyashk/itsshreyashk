@@ -4,7 +4,7 @@
 
 # About Me
 Hi! I'm Shreyash (Shrey). This is my Github where I make things I like.
-My workset programming languages include - `.ts, .py, .go`
+My workset programming languages include - `.ts, .py, .swift`
 If you wanna connect, DMs are open on my [Insta](https://instagram.com/shreyk.x) 
 
 
