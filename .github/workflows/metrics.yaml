@@ -19,5 +19,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
+          user: 0xshreyk
           template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
