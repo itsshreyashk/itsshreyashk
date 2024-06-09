@@ -7,4 +7,4 @@ Hi! I'm Shreyash (Putted up there as Shrey). TBH, coding looks no brainer to me,
 
 [read stats](https://youtu.be/jPhJbKBuNnA?si=TqxBOA21Ta1O3SbP)
 
-I write Javascript+Python+CPP🔥
+`I write Javascript+Python+CPP🔥`
