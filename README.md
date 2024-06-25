@@ -4,6 +4,5 @@
 
 # About Me
 Hi! I'm Shreyash (put up there as Shrey). TBH, coding looks no brainer to me, I code because I do.
-I primarily use `.py & .cpp` for my tasks but I've worked with `HCJ` too! 
-
+The frameworks I use for making things primarily include : `Next.js` for frontend, `.py` or `.cpp` for backend.
 [read stats](https://youtu.be/jPhJbKBuNnA?si=TqxBOA21Ta1O3SbP)
